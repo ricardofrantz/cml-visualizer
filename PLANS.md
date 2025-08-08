@@ -1,6 +1,6 @@
-# CLAUDE.md
+# PLANS.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+This file provides technical documentation and development guidance for the CML Visualizer project.
 
 ## Project Overview
 
